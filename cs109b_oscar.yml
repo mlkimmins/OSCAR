@@ -1,0 +1,36 @@
+name: cs109b-oscar
+
+channels:
+    - conda-forge
+
+dependencies:
+    - arviz
+    - beautifulsoup4
+    - imageio
+    - ipython
+    - jupyterlab
+    - matplotlib
+    - nltk
+    - numpy
+    - pandas
+    - pillow
+    - pip
+    - plotly
+    - python>=3.9
+    - requests
+    - scikit-learn
+    - scipy
+    - seaborn
+    - statsmodels
+    - tensorflow>=2.11
+    - pytorch
+    - tqdm
+    - transformers
+
+    - pip:
+        - tensorflow_addons
+        - tensorflow_datasets
+        - tensorflow_hub
+        - tf_keras_vis
+        - rouge_score
+        - pyrouge
