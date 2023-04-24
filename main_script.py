@@ -7,7 +7,7 @@ from collections import namedtuple
 from data import Vocab
 from batch_reader import Batcher
 from model import SummarizationModel
-from decode import BeamSearchDecoder
+# from decode import BeamSearchDecoder
 from tensorflow.python import debug as tf_debug
 import util
 
