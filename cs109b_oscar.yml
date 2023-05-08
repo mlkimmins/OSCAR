@@ -10,6 +10,7 @@ dependencies:
     - ipython
     - jupyterlab
     - matplotlib
+    - natsort
     - nltk
     - numpy
     - pandas
